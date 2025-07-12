@@ -28,7 +28,7 @@ SmothNav solves this by integrating a Moving Average Filter to stabilize distanc
 
 ## Connnections
 
-![Connection Diagram](.images/connection.png)
+![Connection Diagram](./images/connection.png)
 
 - HC-SR04 → Pins 12 (Trig) and 11 (Echo)
 - L293D IN1–IN4 → Pins 9, 8, 7, 6
@@ -40,7 +40,7 @@ SmothNav solves this by integrating a Moving Average Filter to stabilize distanc
 
 ## Circuit Diagram
 
-![circuit diagram](.images/SmoothNav_ckt.png)
+![circuit diagram](./images/SmoothNav_ckt.png)
 
 ---
 
