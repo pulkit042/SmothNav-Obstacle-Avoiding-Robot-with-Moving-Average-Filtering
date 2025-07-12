@@ -69,6 +69,9 @@ To avoid this, we implemented a Moving Average Filter.
 ---
 
 ## System Behavior Example
+
+- Here I have set the threshold obstacle distance as 50cm.
+  
 | Filtered Distance(cm)  | 	 Robot Action |
 |------------------------|----------------|
 |   > 50 cm	           |          Move Forward|
