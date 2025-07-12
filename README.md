@@ -14,6 +14,10 @@ SmothNav solves this by integrating a Moving Average Filter to stabilize distanc
 - Adjustable obstacle threshold distance.
 
 ---
+## Demo GIF
+![Demo](./images/demo.gif)
+
+---
 
 ## -> Tinkercad Link for the project : https://www.tinkercad.com/things/eneS4WBKcNk/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=Ii7Bz0BQLv7l0mz2VFmQ6hAGQJTMROVCUi07V4_CPnM
 ---
