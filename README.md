@@ -1,0 +1,2 @@
+# SmothNav-Obstacle-Avoiding-Robot-with-Moving-Average-Filtering
+Obstacle-avoiding robots are critical. However, basic implementations often suffer from noisy sensor readings (especially with ultrasonic sensors like HC-SR04), leading to jittery movement and poor decision-making. Smooth navigation requires both noise-filtered distance readings. Implemented  Moving Average Filter to smooth out sensor data.
